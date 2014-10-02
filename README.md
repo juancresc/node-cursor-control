@@ -12,5 +12,8 @@ Node dependencies:
 	express
 	socket.io
 
+To run:
+	node app.js
+
 Want more?
 http://jmcv.com.ar/blog/
