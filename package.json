@@ -1,0 +1,12 @@
+{
+  "name": "cursor-control",
+  "main": "",
+  "description": "Control your mouse cursor from a smartphone. Including mouse move, left/right click and scroll",
+  "author": "Juan M. Cresc <juanma_lace@hotmail.com>",
+  "dependencies": {
+    "express": "latest",
+    "socket.io": "latest",
+    "java": "latest"
+  },
+  "engine": "node 0.10.25"
+}
